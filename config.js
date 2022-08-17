@@ -28,7 +28,7 @@ global.namebot = '❋ཻུ۪۪⸙Shirohige-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
 global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/skymoonn_real?igshid=YmMyMTA2M2Y='
-global.pulsa = '083862006229
+global.pulsa = '083862006229'
 global.nomer = 'https://wa.me/6283862006229' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 BULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 20.000\nMAKSIMAL 2 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 4 GRUP'
 
