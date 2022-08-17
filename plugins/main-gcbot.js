@@ -16,21 +16,21 @@ let jarot = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🐣Via link gc🐣',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
              }
 
            },
                 {
                urlButton: {
                displayText: '🪀Wa owner🪀',
-              url: 'wa.me//79609055704'
+              url: 'wa.me//6283862006229'
              }
 
            },
                {
              quickReplyButton: {
                displayText: 'sewa',
-               id: '.sewaoscar',
+               id: '.sewashiro',
              }
              
            },
