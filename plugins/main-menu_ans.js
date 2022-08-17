@@ -1,6 +1,6 @@
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys')
 let fs = require('fs')
-let owner = 79609055704
+let owner = 6285850539404
 let wa = '0'
 let handler = async (m) => {
 let jarot = `
@@ -10,7 +10,7 @@ let jarot = `
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         templateMessage: {
             hydratedTemplate: {
-                hydratedContentText: Jarot, 
+                hydratedContentText: jarot,
                 imageMessage: message.imageMessage, 
            hydratedFooterText: '📮Note : Jika Kamu Menggunakan Wa Lama Atau Wa Mod, Dan Button Tidak Keliatan, Langsung Aja Ketik .? all',
            hydratedButtons: [{
