@@ -1,6 +1,6 @@
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys')
 let fs = require('fs')
-let owner = 6285850539404
+let owner = 6283862006229
 let wa = '0'
 let handler = async (m) => {
 let jarot = `
@@ -10,13 +10,13 @@ let jarot = `
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         templateMessage: {
             hydratedTemplate: {
-                hydratedContentText: jarot,
+                hydratedContentText: Skyxmoon,
                 imageMessage: message.imageMessage, 
            hydratedFooterText: '📮Note : Jika Kamu Menggunakan Wa Lama Atau Wa Mod, Dan Button Tidak Keliatan, Langsung Aja Ketik .? all',
            hydratedButtons: [{
              urlButton: {
                displayText: '🔮GroupBot🔮',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
              }
 
            },
@@ -44,7 +44,7 @@ let jarot = `
                {
              quickReplyButton: {
                displayText: 'LIST COMMAND',
-               id: '.menu',
+               id: '.? all',
              }
 
            }]
