@@ -10,7 +10,7 @@ global.mods = ['']
 global.prems = ['6283862006229'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Skyxmoon offcঔৣ꧂'
+global.nameowner = '𝚂𝙺𝚈𝚇𝙼𝙾𝙾𝙽 𝙾𝙵𝙲'
 global.numberowner = '6283862006229','6283862006229',
 global.instagram = 'https://instagram.com/skymoonn_real?igshid=YmMyMTA2M2Y='
 global.github = 'https://github.com/Xavieroffcial'
@@ -24,7 +24,7 @@ global.pulsa = '083862006229'
 global.gopay = '083862006229'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Shirohige-MD⳹ ❋ཻུ۪۪'
+global.namebot = '𝚂𝙷𝙸𝚁𝙾𝙷𝙸𝙶𝙴-𝙼𝙳'
 global.gc = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
 global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/skymoonn_real?igshid=YmMyMTA2M2Y='
@@ -33,20 +33,20 @@ global.nomer = 'https://wa.me/6283862006229' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 BULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 20.000\nMAKSIMAL 2 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 4 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/41f7fce7f6beec7a5d3b4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg'
-global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = '𝚑𝚝𝚝𝚙𝚜://𝚝𝚎𝚕𝚎𝚐𝚛𝚊.𝚙𝚑/𝚏𝚒𝚕𝚎/0𝚌781𝚊8𝚍𝚏7𝚌𝚊𝚎4𝚌𝚊6𝚏914.𝚓𝚙𝚐' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg'
+global.fotonya8 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //foto session
+global.donasi = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Shirohige-Md'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by 𝚂𝙺𝚈𝚇𝙼𝙾𝙾𝙽'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 𝚂𝙺𝚈𝚇𝙼𝙾𝙾𝙽'
 global.wm3 = 'ᯤ 𝚂𝙺𝚈𝚇𝙼𝙾𝙾𝙽 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
