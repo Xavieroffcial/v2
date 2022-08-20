@@ -33,14 +33,14 @@ global.nomer = 'https://wa.me/6283862006229' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 BULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 20.000\nMAKSIMAL 2 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 4 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = '𝚑𝚝𝚝𝚙𝚜://𝚝𝚎𝚕𝚎𝚐𝚛𝚊.𝚙𝚑/𝚏𝚒𝚕𝚎/0𝚌781𝚊8𝚍𝚏7𝚌𝚊𝚎4𝚌𝚊6𝚏914.𝚓𝚙𝚐' //ganti jadi foto bot mu
+global.fotonya1 = 'https://telegra.ph/file/d46a6d2e6f6a4e18c1b11.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/d46a6d2e6f6a4e18c1b11.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/d46a6d2e6f6a4e18c1b11.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/d46a6d2e6f6a4e18c1b11.jpg' //ini juga ganti
 global.fotonya6 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg'
-global.fotonya8 = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //foto session
+global.fotonya7 = 'https://telegra.ph/file/d46a6d2e6f6a4e18c1b11.jpg'
+global.fotonya8 = 'https://telegra.ph/file/d46a6d2e6f6a4e18c1b11.jpg' //foto session
 global.donasi = 'https://telegra.ph/file/0c781a8df7cae4ca6f914.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
