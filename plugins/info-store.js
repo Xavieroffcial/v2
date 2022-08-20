@@ -8,11 +8,11 @@ let jarot = `
 «================»
 ››╭─〘 *Store* 〙
 ╭╡📮: Store owner kami.
-│┝‷✧ *jasa murid bot:*
-│┝‷✧ *jasa Jadi bot:*
-│┝‷✧ *jasa Sewa bot:*
+│┝‷✧ *JASA JADI BOT*
+│┝‷✧ *JASA RUN BOT DI HEROKU*
+│┝‷✧ *JASA SEWA BOT*
 │╰───···─────
-│⁺◛˖ Ingin membeli store owner? Chat owner aja…
+│⁺◛˖ Ingin membeli Bot/jadibot? Chat owner aja…
 ╰──────────···───
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya1)).buffer()}, { upload: conn.waUploadToServer }) 
