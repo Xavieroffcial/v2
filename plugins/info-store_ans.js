@@ -15,15 +15,15 @@ let jarot = `
            hydratedFooterText: '',
            hydratedButtons: [{
              urlButton: {
-               displayText: 'Store Jadibot',
-               url: 'https://wa.me/p/5157541794323439/79609055704'
+               displayText: 'JADI BOT',
+               url: 'https://wa.me/p/5514178865288427/6283819201864'
              }
 
            },
                 {
                urlButton: {
-               displayText: 'Store Sewa Bot',
-               url: 'https://wa.me/p/5195315473908561/79609055704'
+               displayText: 'SEWA BOT',
+               url: 'https://wa.me/p/7843541279053048/6283819201864'
              }
            }]
          }
